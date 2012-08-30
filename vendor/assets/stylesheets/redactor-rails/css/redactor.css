@@ -487,6 +487,11 @@ body .redactor_toolbar li a.redactor_btn_horizontalrule 	{ background-position: 
 	overflow: auto; 
 	margin-bottom: 10px;
 }
+#redactor_image_box_select {
+	display: block;
+	width: 200px;
+	margin-bottom: 15px;
+}
 #redactor_image_box img {
 	margin-right: 10px;
 	margin-bottom: 10px;
